@@ -18,4 +18,5 @@ public class ColumnSum {
             System.out.println("Sum of column " + (j + 1) + " = " + sum);
         }
     }
+
 }
